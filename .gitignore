@@ -1,0 +1,8 @@
+*.mat
+*.pyc
+*.png
+*.pickle
+/__pycache__
+/.ipynb_checkpoints
+./20Hz
+*.hdf5
